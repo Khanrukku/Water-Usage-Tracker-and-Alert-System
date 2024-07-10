@@ -38,7 +38,18 @@ This project aims to help users track their daily water usage and receive alerts
 3. Record your daily water usage.
 4. View your usage history and receive alerts if you exceed your goals.
 
+### Instruction to run the project
+1. clone the repository
+2. Install dependencies
+3. setup the database
+   Navigate to project directory
+   initialize the SQLite database
+4.Run the application
+    
+   
+
 ### Contributors
 
 - Rukaiya Khan
 -https://github.com/Khanrukku
+
